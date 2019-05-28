@@ -2,7 +2,7 @@ import java.util.Scanner;
 public class Main {
    public static void main(String[] args){
       int year;
-      System.out.println("Enter an Year :: ");
+
       Scanner sc = new Scanner(System.in);
       year = sc.nextInt();
 
@@ -11,3 +11,4 @@ public class Main {
       else
          System.out.println("no");
    }
+}
