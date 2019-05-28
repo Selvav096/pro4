@@ -1,7 +1,7 @@
 import java.util.*;
 public class Main
 {
-public staric void main(String args[])
+public static void main(String args[])
 {
 Scanner s=new Scanner (System.in);
 int a=s.nextInt(),r=0,d,t=a;
@@ -17,4 +17,4 @@ else
 System.out.print("no");}
 else{
 System.out.print("Invalid Input");
-}
+}}}
