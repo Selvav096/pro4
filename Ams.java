@@ -21,9 +21,9 @@ e+=Math.pow(g,d);
 c=c/10;
 }
 if(f==e) 
-System.out.println("Yes");
+System.out.println("yes");
 else
-System.out.println("No");
+System.out.println("no");
 }
 }
 }
