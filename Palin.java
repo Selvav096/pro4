@@ -9,7 +9,7 @@ if(a>0)
 {
 while (a>0)
 {
-d=a%10;r=r+d;a=a/10;
+d=a%10;r=(r*10)+d;a=a/10;
 }
 if(t==r)
 System.out.print("yes");
